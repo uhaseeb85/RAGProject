@@ -1,0 +1,12 @@
+PyQt6
+PyPDF2
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+openai
+requests
+torch
+torchvision
+torchaudio
+sentence-transformers
